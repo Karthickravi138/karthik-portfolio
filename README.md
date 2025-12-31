@@ -1,29 +1,42 @@
-# Personal Portfolio Website
+# Personal Portfolio — ReactJS
 
-A modern, responsive personal portfolio website built using **ReactJS** to showcase my projects, technical skills, and professional experience.  
-The application is deployed as a **static website** with automated **CI/CD integration** from GitHub.
+A production-ready personal portfolio built with **ReactJS**, designed to present my engineering experience, projects, and technical strengths in a clear and professional manner.
+
+This repository is intentionally structured, version-controlled, and deployed with automated CI/CD to reflect real-world engineering practices rather than a demo or sample project.
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Application
 👉 https://your-name.netlify.app  
-(Replace with your actual deployed URL)
+_(Replace with your deployed URL)_
 
 ---
 
-## 📌 Overview
+## 🧭 Purpose & Philosophy
 
-This portfolio serves as a single place to present my work as a **Backend / API Engineer** with experience in building scalable systems and modern web applications.
+This portfolio is not just a personal website — it is a **technical artifact**.
 
-The focus of the project is on:
-- Clean UI and structured content
-- Performance and responsiveness
-- Simple and maintainable codebase
-- Professional presentation for recruiters and hiring managers
+The goal of this project is to:
+- Present my professional experience in a clean and credible way
+- Demonstrate frontend fundamentals with ReactJS
+- Follow best practices around version control, deployment, and maintainability
+- Act as a foundation for future backend and AI-driven integrations
+
+The design intentionally avoids unnecessary complexity and focuses on **clarity, performance, and structure**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me (Context)
+
+I am a **Backend / API Engineer** with hands-on experience building and maintaining production systems.  
+While my core expertise lies in backend development, this project demonstrates my ability to:
+- Build clean, maintainable frontend applications
+- Think in terms of system boundaries and contracts
+- Deliver complete, deployable solutions end-to-end
+
+---
+
+## 🛠️ Technology Stack
 
 ### Frontend
 - **ReactJS**
@@ -31,24 +44,26 @@ The focus of the project is on:
 - **HTML5**
 - **CSS3**
 
-### Tooling & Deployment
-- Git & GitHub
+### Tooling & Platform
+- Git & GitHub (version control)
 - Static site deployment (Netlify / Vercel)
-- Automated CI/CD from GitHub
-- HTTPS enabled hosting
+- Automated CI/CD on every push to `main`
+- HTTPS-enabled hosting
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- Fully responsive design (mobile, tablet, desktop)
-- Projects showcase with descriptions and links
-- Skills and technology stack overview
-- About section with professional summary
-- Contact section with profile links
-- Fast-loading static deployment
+- Responsive layout across desktop, tablet, and mobile
+- Projects section highlighting real-world engineering work
+- Skills section focused on practical technologies
+- Clean navigation and readable content hierarchy
+- Optimized static build for fast load times
+- Continuous deployment from GitHub
 
 ---
 
 ## 📂 Project Structure
+
+The project follows a simple and maintainable structure:
 

@@ -7,7 +7,7 @@ This repository is intentionally structured, version-controlled, and deployed wi
 ---
 
 ## 🔗 Live Application
-👉 https://incredible-dieffenbachia-e26b42.netlify.app
+👉 https://agent-6954cf7f6--incredible-dieffenbachia-e26b42.netlify.app
 
 ---
 
